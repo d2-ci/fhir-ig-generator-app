@@ -1,0 +1,9 @@
+[
+  {
+    "locale": "en",
+    "translations": {
+      "APP_TITLE": "FHIR IG Generator",
+      "APP_DESCRIPTION": ""
+    }
+  }
+]
