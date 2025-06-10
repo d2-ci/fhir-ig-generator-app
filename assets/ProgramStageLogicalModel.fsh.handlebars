@@ -1,0 +1,14 @@
+{{#with this as |programStage|}}
+Logical: {{toPascalCase programStage.name}}
+Title: "{{{programStage.name}}}"
+Parent: Base
+{{#if programStage.description}}
+Description: "{{{escapeQuotes programStage.description}}}"
+{{/if}}
+{{#programStageDataElements as |programStageDataElement|}}
+* {{toFhirDataElementName programStageDataElement.dataElement}} {{toFhirCardinality programStageDataElement.compulsory}}..1 {{toFhirDataType programStageDataElement.dataElement.valueType programStageDataElement.dataElement.optionSet}} "{{{escapeQuotes (toFhirElementDescription programStageDataElement.dataElement)}}}"
+{{#if programStageDataElement.dataElement.optionSet}}
+* {{toFhirDataElementName programStageDataElement.dataElement}} from {{toPascalCase programStageDataElement.dataElement.optionSet.name}}VS (required)
+{{/if}}
+{{/programStageDataElements}}
+{{/with}}
