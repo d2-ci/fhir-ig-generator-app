@@ -4,7 +4,7 @@
   "title": "FHIR IG Generator",
   "minDHIS2Version": "2.39",
   "name": "fhir-ig-generator-app",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "",
   "entryPoints": {
     "app": "index.html"
