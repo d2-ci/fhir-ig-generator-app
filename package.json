@@ -1,0 +1,31 @@
+{
+  "name": "fhir-ig-generator-app",
+  "version": "1.4.1",
+  "description": "",
+  "license": "BSD-3-Clause",
+  "private": true,
+  "scripts": {
+    "build": "d2-app-scripts build",
+    "start": "d2-app-scripts start",
+    "test": "d2-app-scripts test",
+    "deploy": "d2-app-scripts deploy"
+  },
+  "devDependencies": {
+    "@dhis2/cli-app-scripts": "^12.3.0",
+    "@dhis2/cli-style": "^10.7.6",
+    "@testing-library/dom": "^10.4.0"
+  },
+  "dependencies": {
+    "@dhis2/app-runtime": "^3.13.1",
+    "@dhis2/ui": "^10.1.11",
+    "@testing-library/react": "^16.2.0",
+    "dhis2-ig-generator-app": "file:",
+    "handlebars": "^4.7.8",
+    "jszip": "^3.10.1",
+    "jszip-utils": "^0.1.0",
+    "react-markdown": "^10.1.0",
+    "react-router": "^7.4.0",
+    "react-router-dom": "^7.4.0",
+    "yaml": "2.5.1"
+  }
+}
