@@ -3,8 +3,8 @@
   "appType": "APP",
   "short_name": "fhir-ig-generator-app",
   "name": "FHIR IG Generator",
-  "description": "",
-  "version": "1.4.1",
+  "description": "This app helps author FHIR IGs based on DHIS2 tracker metadata by automatically transforming DHIS2 tracker program metadata into standardized FHIR implementation guides.",
+  "version": "1.4.2",
   "launch_path": "index.html",
   "default_locale": "en",
   "activities": {
@@ -15,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Fri Jan 30 2026 13:57:01 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Mon Oct 12 2026 14:15:41 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff"
