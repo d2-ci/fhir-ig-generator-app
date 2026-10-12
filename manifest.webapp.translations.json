@@ -1,0 +1,9 @@
+[
+  {
+    "locale": "en",
+    "translations": {
+      "APP_TITLE": "FHIR IG Generator",
+      "APP_DESCRIPTION": "This app helps author FHIR IGs based on DHIS2 tracker metadata by automatically transforming DHIS2 tracker program metadata into standardized FHIR implementation guides."
+    }
+  }
+]
