@@ -1,0 +1,261 @@
+[
+  {
+    "locale": "ar",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "ar_IQ",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "bn",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "ckb",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "cs",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "da",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "de",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "en",
+    "translations": {
+      "APP_TITLE": "FHIR IG Generator",
+      "APP_DESCRIPTION": "This app helps author FHIR IGs based on DHIS2 tracker metadata by automatically transforming DHIS2 tracker program metadata into standardized FHIR implementation guides."
+    }
+  },
+  {
+    "locale": "en_US",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "es",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "es_419",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "fr",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "hi_IN",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "id",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "km",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "lo",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "my",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "nb",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "ne",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "nl",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "prs",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "ps",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "pt",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "pt_BR",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "ro",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "ru",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "si",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "sv",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "tet",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "tg",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "uk",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "ur",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "uz_UZ_Cyrl",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "uz_UZ_Latn",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "vi",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "zh",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  },
+  {
+    "locale": "zh_CN",
+    "translations": {
+      "APP_TITLE": "",
+      "APP_DESCRIPTION": ""
+    }
+  }
+]
