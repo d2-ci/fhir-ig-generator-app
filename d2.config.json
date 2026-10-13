@@ -5,7 +5,7 @@
   "description": "This app helps author FHIR IGs based on DHIS2 tracker metadata by automatically transforming DHIS2 tracker program metadata into standardized FHIR implementation guides.",
   "minDHIS2Version": "2.39",
   "name": "fhir-ig-generator-app",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "entryPoints": {
     "app": "index.html"
   }
